@@ -4,7 +4,7 @@
                 <b><a target="_blank" href="https://medium.com/@rodollfo.marques">Rodolfo Gueiros</a>✌️</b 
         </samp>
 </h3>
-<br /><br />
+<br />
 <p align="center">
 	<a href="https://api.whatsapp.com/send/?phone=5511983790545&text=Ol%C3%A1%2C+vi+o+seu+perfil+no+github.&type=phone_number&app_absent=0" target="_blank">
 		<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Rodolfo Gueiros | Contato"/>
