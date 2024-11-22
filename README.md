@@ -5,6 +5,17 @@
         </samp>
 </h3>
 <br /><br />
+<p align="center">
+	<a href="https://api.whatsapp.com/send/?phone=5511983790545&text=Ol%C3%A1%2C+vi+o+seu+perfil+no+github.&type=phone_number&app_absent=0" target="_blank">
+		<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Rodolfo Gueiros | Contato"/>
+	</a>
+	<a href="https://www.linkedin.com/in/rodolfogueiros/" target="_blank">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+	</a>
+	<a href="mailto:rodollfo.marques@gmail.com" target="blank">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+	</a>
+</p>
 
 <!-- About Section -->
  ## Sobre Mim
@@ -21,17 +32,6 @@
  <!--📞&emsp;Fale comigo: <a href="https://api.whatsapp.com/send/?phone=5511983790545&text=Ol%C3%A1%2C+vi+o+seu+perfil+no+github.&type=phone_number&app_absent=0">
   <img alt="Rodolfo Gueiros | Contato" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
 </a>--><br/>
-<p>
-	<a href="https://api.whatsapp.com/send/?phone=5511983790545&text=Ol%C3%A1%2C+vi+o+seu+perfil+no+github.&type=phone_number&app_absent=0" target="_blank">
-		<img align="right" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Rodolfo Gueiros | Contato"/>
-	</a>
-	<a href="https://www.linkedin.com/in/rodolfogueiros/" target="_blank">
-		<img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
-	</a>
-	<a href="mailto:rodollfo.marques@gmail.com" target="blank">
-		<img align="right" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-	</a>
-</p>
 </p>
 
 <br/>
