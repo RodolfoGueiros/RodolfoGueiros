@@ -1,7 +1,7 @@
 <!-- Intro --> 
 <h3 align="left">
-        <samp>&gt; Olá!, Eu sou Rodolfo Gueiros ✌️
-                b><a target="_blank" href="https://medium.com">Rodolfo Gueiros</a></b 
+        <samp>&gt; Olá!, Eu sou
+                <b><a target="_blank" href="https://medium.com/@rodollfo.marques">Rodolfo Gueiros</a>✌️</b 
         </samp>
 </h3>
 <br /><br />
